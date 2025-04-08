@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -g -Wdeprecated-declarations -rdynamic CMakeFiles/pOdometry.dir/Odometry.cpp.o CMakeFiles/pOdometry.dir/Odometry_Info.cpp.o CMakeFiles/pOdometry.dir/main.cpp.o -o ../../../bin/pOdometry   -L/home/suyupeng/moos-ivp/lib  -Wl,-rpath,/home/suyupeng/moos-ivp/lib /home/suyupeng/moos-ivp/build/MOOS/MOOSCore/lib/libMOOS.a -lmbutil -lm -lpthread 
